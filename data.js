@@ -1,0 +1,80 @@
+window.players = [
+  {
+    name: "Shoyo Hinata",
+    role: "Middle Blocker",
+    description: "Energetic and jumps insanely high.",
+    image: "img/shoyo.jpg",
+  },
+  {
+    name: "Tobio Kageyama",
+    role: "Setter",
+    description: "Genius passer, King of the Court.",
+    image: "img/tobio.jpg",
+  },
+  {
+    name: "Daichi Sawamura",
+    role: "Captain / Wing Spiker",
+    description: "Reliable leader of the team.",
+    image: "img/daichi.jpg",
+  },
+  {
+    name: "Koushi Sugawara",
+    role: "Setter",
+    description: "Supportive and calm strategist.",
+    image: "img/koushi.jpg",
+  },
+  {
+    name: "Asahi Azumane",
+    role: "Ace",
+    description: "Powerful and gentle-hearted ace.",
+    image: "img/asahi.jpg",
+  },
+  {
+    name: "Yu Nishinoya",
+    role: "Libero",
+    description: "Guardian deity of Karasuno.",
+    image: "img/nishinoya.jpg",
+  },
+  {
+    name: "Ryuunosuke Tanaka",
+    role: "Wing Spiker",
+    description: "Fiery and loud powerhouse.",
+    image: "img/tanaka.jpg",
+  },
+  {
+    name: "Kei Tsukishima",
+    role: "Middle Blocker",
+    description: "Smart, tall, analytical blocker.",
+    image: "img/kei.jpg",
+  },
+  {
+    name: "Tadashi Yamaguchi",
+    role: "Pinch Server",
+    description: "Consistent floater serve specialist.",
+    image: "img/yamaguchi.jpg",
+  },
+  {
+    name: "Chikara Ennoshita",
+    role: "Wing Spiker",
+    description: "Steady and dependable sub-captain.",
+    image: "img/chikara.jpg",
+  },
+  {
+    name: "Hisashi Kinoshita",
+    role: "Wing Spiker",
+    description: "",
+    image: "img/hisashi.jpg",
+  },
+  {
+    name: "Kazuhito Narita",
+    role: "Middle Blocker",
+    description: "",
+    image: "img/narita.jpg",
+  },
+  {
+    name: "Coach Ukai Keishin",
+    role: "Coach",
+    description: "Leader and strategist behind Karasuno.",
+    image: "img/ukai.jpg",
+  },
+];
